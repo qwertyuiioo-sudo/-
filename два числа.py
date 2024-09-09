@@ -6,4 +6,6 @@ r2 = s1 - s2
 print(r2)
 r3 = s1 / s2
 print(r3)
+r4 = s1 * s2
+print(r4)
 
